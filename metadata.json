@@ -1,0 +1,5 @@
+{
+  "name": "BragBoard",
+  "description": "An internal employee recognition wall that allows teams to appreciate colleagues through shout-outs, tagging, reactions, and interactive comments.",
+  "requestFramePermissions": []
+}
